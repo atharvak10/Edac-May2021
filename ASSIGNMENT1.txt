@@ -1,9 +1,14 @@
+NAME: ATHARVA KHANAPURKAR
+CENTRE: KHARGHAR MUMBAI
+
+
+                 ASSIGNMENT 1:
 /*
 1. Write a Java program to print 'Hello' on screen and then print your name on a
 separate line.
 Expected Output :
 Hello
-Alexandra Abramov
+Alexandra Abronov
 */
 
 class question1
